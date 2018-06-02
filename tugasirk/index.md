@@ -78,7 +78,7 @@ Selain *getter* dan *setter*, struktur data di atas memiliki fungsi primitif sep
 - ```int search(Point P)``` : Mencari sebuah titik pada simpul dengan daerah terkecil yang memiliki titik tersebut dalam *Quadtree*, dan mengembalikan informasi yang ada pada simpul yang ditemukan(jika ada).
 
 
-# Image Compression with Quadtree
+# Kompresi Gambar Dengan Quadtree
 
 Tujuan dari algoritma compresi ini adalah memecah suatu gambar menjadi upa-gambar 
 dan disimpan kesimpul dari Quadtree yang tiap upa-gambar-nya memiliki suatu kesamaan yang telah ditetapkan
@@ -94,4 +94,14 @@ Berikut algoritma kompresi:
 
 Semakin besar batas nilai error yang digunakan, semakin tidak sesuai gambar hasil kompresi dengan gambar aslinya. Jika nilai error lebih dari 0, maka disebut lossy compression.
 
+Lossy compression adalah jenis kompresi yang dimana selama proses kompresi ada data yang sengaja dihilangkan.
+
 Perhitungan nilai error dapat dilakukan dengan banyak cara.
+
+
+
+--------------------------------
+
+	Pembagian Tugas:
+	- Jose Hosea (13516027) : Penjelasan Quadtree dan Implementasi
+	- Tony (13516010) : Algoritma Quadtree untuk kompresi gambar
