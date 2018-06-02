@@ -5,7 +5,7 @@
 <p align="center">
   <img width="460" height="300" src="http://codeforces.com/predownloaded/7b/ff/7bff9daa7c6aec3f2ff2717b7ee778e9c0ba43f3.png">
  <br/>
- Contoh <i>Quadtree<i>
+ Contoh <i>Quadtree</i>
 </p>
 
 *Quadtree* komplit yaitu pohon yang setiap simpulnya memiliki empat buah anak(kecuali simpul daun) dan semua simpul daunnya berada pada level yang sama. *Quadtree* ini disebut pohon piramid atau *Tree-Pyramid*.
@@ -19,7 +19,7 @@
 <p align="center">
   <img width="460" height="300" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Quadtree_compression_of_an_image.gif">
  <br/>
- <i>Region Quadtree<i> untuk penyimpanan gambar
+ <i>Region Quadtree</i> untuk penyimpanan gambar
 </p>
 
 - *Point Quadtree* : *Quadtree* untuk merepresentasikan data dua dimensi, contohnya kumpulan titik-titik yang ingin disimpan. *Quadtree* ini sangat efisien apabila digunakan untuk membandingkan data yang terurut, biasanya kompleksitas waktunya adalah *O(log n)*.
@@ -31,6 +31,7 @@
 - *Compressed Quadtree* : *Quadtree* ini adalah sebuah pohon yang direduksi agar tidak menyimpan informasi yang tidak dibutuhkan. Contohnya seperti penggunaan *Region Quadtree* untuk merepresentasikan gambar. Dengan menggunakan *Compressed Quadtree*, sebuah daerah pada gambar yang memiliki warna yang sama dapat direpresentasikan oleh sebuah simpul, tanpa harus membagi simpul yang merepresentasikan daerah tersebut hingga level satuan *pixel*. Penyimpanan data menjadi lebih efisien dan pencarian warna pada *pixel* tertentu menjadi lebih mudah.
 
 ## Implementasi
+
 ```java
 /*
 	Berikut adalah implementasi sederhana dari struktur data Region Quadtree
