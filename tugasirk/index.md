@@ -80,7 +80,7 @@ Selain *getter* dan *setter*, struktur data di atas memiliki fungsi primitif sep
 
 # Kompresi Gambar Dengan Quadtree
 
-Tujuan dari algoritma compresi ini adalah memecah suatu gambar menjadi upa-gambar 
+Tujuan dari algoritma kompresi ini adalah memecah suatu gambar menjadi upa-gambar 
 dan disimpan kesimpul dari Quadtree yang tiap upa-gambar-nya memiliki suatu kesamaan yang telah ditetapkan
 menggunakan algoritma Divide and Conquer.
 
@@ -99,6 +99,13 @@ Lossy compression adalah jenis kompresi yang dimana selama proses kompresi ada d
 Perhitungan nilai error dapat dilakukan dengan banyak cara.
 
 
+# Referensi / Sumber
+
+https://en.wikipedia.org/wiki/Quadtree
+https://www.geeksforgeeks.org/quad-tree/
+http://codeforces.com/blog/entry/57498
+https://blog.jverkamp.com/2014/05/28/quadtree-image-compression/
+https://arxiv.org/ftp/arxiv/papers/1502/1502.00324.pdf
 
 --------------------------------
 
