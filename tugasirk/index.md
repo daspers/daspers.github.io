@@ -101,11 +101,11 @@ Perhitungan nilai error dapat dilakukan dengan banyak cara.
 
 # Referensi / Sumber
 
-https://en.wikipedia.org/wiki/Quadtree
-https://www.geeksforgeeks.org/quad-tree/
-http://codeforces.com/blog/entry/57498
-https://blog.jverkamp.com/2014/05/28/quadtree-image-compression/
-https://arxiv.org/ftp/arxiv/papers/1502/1502.00324.pdf
+- https://en.wikipedia.org/wiki/Quadtree
+- https://www.geeksforgeeks.org/quad-tree/
+- http://codeforces.com/blog/entry/57498
+- https://blog.jverkamp.com/2014/05/28/quadtree-image-compression/
+- https://arxiv.org/ftp/arxiv/papers/1502/1502.00324.pdf
 
 --------------------------------
 
