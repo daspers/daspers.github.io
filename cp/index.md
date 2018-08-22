@@ -12,9 +12,9 @@ Problems : [1](http://codeforces.com/problemset/problem/514/C)
 2. Fast Fourier Transform<br>
 Tutorial : [1](https://cp-algorithms.com/algebra/fft.html), [2](https://www.youtube.com/watch?v=iTMn0Kt18tg)<br>
 Problems : [1](http://codeforces.com/contest/900/problem/E)
-3. DSU on Tree
+3. DSU on Tree<br>
 Tutorial : [1](https://codeforces.com/blog/entry/44351)<br>
 Problems : [1](http://codeforces.com/problemset/problem/1009/F)
-4. Longest Common Ancestor (LCA)
+4. Longest Common Ancestor (LCA)<br>
 Tutorial : [1](https://cp-algorithms.com/graph/lca_binary_lifting.html), [2](https://cp-algorithms.com/graph/lca.html)<br>
 Problems : [1](http://codeforces.com/blog/entry/43917)
